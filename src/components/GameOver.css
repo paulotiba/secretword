@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+
+}
+
+h2 span {
+    color: #ecfa00;
+    font-size: 1.5em;
+}
